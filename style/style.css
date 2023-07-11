@@ -107,8 +107,8 @@ body {
 .reaction {
     width: 530px;
     height: 70px;
-    background-color: #df230e75;
-    background-image: url(/assets/images/icon-reaction.svg);
+    background-color: #fff6f5;
+    background-image: url(../assets/images/icon-reaction.svg);
     background-repeat: no-repeat;
     background-size: 50px;
     background-position: left;
@@ -144,7 +144,7 @@ span {
     width: 530px;
     height: 70px;
     background-color: #fffbf2;
-    background-image: url(/assets/images/icon-memory.svg);
+    background-image: url(../assets/images/icon-memory.svg);
     background-repeat: no-repeat;
     background-size: 50px;
     background-position: left;
@@ -164,8 +164,8 @@ span {
 .verbal {
     width: 530px;
     height: 70px;
-    background-color: #f2fbfa;
-    background-image: url(/assets/images/icon-verbal.svg);
+    background-color: #85e4d970;
+    background-image: url(../assets/images/icon-verbal.svg);
     background-repeat: no-repeat;
     background-size: 50px;
     background-position: left;
@@ -178,7 +178,7 @@ span {
     display: flex;
     padding: 7px;
     margin-left: 60px;
-    color:#b5fff6;
+    color:#2debd4;
     font-family: 'Inter';
 }
 
@@ -186,7 +186,7 @@ span {
     width: 530px;
     height: 70px;
     background-color: #f3f3fd;
-    background-image: url(/assets/images/icon-visual.svg);
+    background-image: url(../assets/images/icon-visual.svg);
     background-repeat: no-repeat;
     background-size: 50px;
     background-position: left;
